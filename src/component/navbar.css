@@ -1,0 +1,14 @@
+.nav-back{
+    background-color:#F3E7DD;
+    color: #fff;
+}
+.navbar  {
+color: #443D8A;
+transition:.5s;
+}
+.navbar:hover{
+    color:#219150;
+}
+.collapse {
+    color: rgb(174, 18, 18); 
+}
